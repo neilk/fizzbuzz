@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "description": "Ridiculous fizzbuzz implementations",
+  "version": "0.0.1",
+  "author": {
+    "name": "Neil Kandalgaonkar",
+    "email": "neilk@neilk.net",
+    "url": "http://neilk.net/"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/neilk/fizzbuzz.git"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "underscore": "1.x"
+  }
+}
